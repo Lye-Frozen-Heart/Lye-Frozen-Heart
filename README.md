@@ -4,7 +4,7 @@
 ---
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> About me   
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> About me   
 I'm an **advanced technician** with degrees in **Multiplatform Application Development** and **Web Application Development**. Currently, I am pursuing a degree in **Computer Engineering** to deepen my expertise in the field. 💻  
 
 I am passionate about **front-end development**, **deployment technologies** and **micro-service structures**. Always eager to explore **new technologies** and **tools** that expand my horizons and enhance my understanding. 🌱  
@@ -13,7 +13,7 @@ Beyond coding, I deeply enjoy: **art**, **sport**, **nature** and many more! Bei
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="20"> Technologies I Work With  
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="50"> Technologies I Work With  
 Here are some of the tools and technologies I have experience with:  
 
 ### **Databases**  
